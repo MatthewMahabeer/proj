@@ -1,10 +1,3 @@
-# Project Title
-
-Provide a short, descriptive title for your project here.
-
-## Description
-
-Include a brief description of your project, explaining its purpose, features, and functionality. Provide some context for users who may be unfamiliar with your project.
 
 ## Getting Started
 
